@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CurrCurrWaglio</string>
+
+    <string name="benvenuto">Benvenuto in CurrCurrWaglio</string>
+
+    <string name="destinazione">Destinazione</string>
+    <string name="orari">Orari</string>
+    <string name="telefono">Telefono</string>
+    <string name="servizi">Servizi</string>
+    <string name="sitoweb">Sito Web</string>
+
+
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
